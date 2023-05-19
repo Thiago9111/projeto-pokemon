@@ -1,0 +1,12 @@
+*{
+    margin:0;
+padding: 0;    
+box-sizing: border-box;
+}
+ul{ /*estilizar a contagem das listas os marcadores antes da linha escrita*/
+    
+     list-style: none;
+}
+li{
+    list-style: none;
+}
